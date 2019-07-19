@@ -1,4 +1,4 @@
-package com.tlong.parent;
+package com.jds.parent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
